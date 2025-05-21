@@ -1,4 +1,3 @@
-# the-quite-ink
 # ✨ Jomesa D. Boone – Official Author Website
 
 Welcome to the official website of **Jomesa D. Boone**, an author dedicated to uplifting, healing, and inspiring readers of all ages. This site showcases a powerful collection of books across journals, inspirational writings, and healing-focused guides for men, women, and children.
