@@ -1,35 +1,43 @@
-# ✨ Jomesa D. Boone – Official Author Website
+# Jomesa D. Boone - Author Website
 
-Welcome to the official website of **Jomesa D. Boone**, an author dedicated to uplifting, healing, and inspiring readers of all ages. This site showcases a powerful collection of books across journals, inspirational writings, and healing-focused guides for men, women, and children.
+Welcome to the official author website of **Jomesa D. Boone**.
 
-## 📖 About the Project
+This React-based site showcases her inspirational, healing, and empowering books across various genres including Journals, Healing, Inspirational, and Children's literature.
 
-This responsive React website organizes Jomesa's work into four main categories:
-- **Journals** – Guided and reflective writing tools
-- **Healing** – Books that mend emotional and mental wounds
-- **Inspirational** – Messages of faith, hope, and resilience
-- **Children** – Empowering young readers
+## 🌐 Live Site
 
-It features a soft, pastel design with bold accents to reflect emotional warmth and spiritual strength.
+> Coming soon – hosted on [Vercel](https://vercel.com)
 
-## 🌐 Live Website
-> Coming soon — hosted on [Vercel](https://vercel.com)
+## 📚 Project Features
 
-## ✨ Features
-- Tailwind-powered modern layout
-- Categorized book showcase
-- Email subscription form
-- Navigation and footer with social media placeholders
-- Ready for GitHub + Vercel deployment
+- Organized book showcase by category
+- Clean, pastel-themed design with Tailwind CSS
+- Responsive layout
+- Email subscription section
+- Navigation & footer with social links
 
 ## 🚀 Getting Started
 
-Clone the project and run it locally:
-
+1. Clone this repo:
 ```bash
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd jomesa-author-website
+```
+2. Install dependencies:
+```bash
 npm install
+```
+3. Run the development server:
+```bash
 npm run dev
-npm run build
-Would you like me to replace the one in your project and regenerate the `.zip` for download
+```
+
+## 🛠 Built With
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vercel](https://vercel.com) (for deployment)
+
+## 📄 License
+
+This project is licensed under the MIT License – see the LICENSE file for details.
